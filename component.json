@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "keywords": ["promise", "when"],
   "main": "index.js",
+  "scripts:":[
+    "index.js"
+  ],
   "dependencies": {
     "ddxq-components/each": "1.0.0",
     "ddxq-components/extend": "1.0.0"
