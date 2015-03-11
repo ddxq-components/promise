@@ -1,0 +1,11 @@
+{
+  "name": "promise",
+  "description": "Promise 对象用来进行延迟(deferred) 和 异步(asynchronous)计算",
+  "version": "1.0.0",
+  "keywords": ["promise", "when"],
+  "main": "index.js",
+  "dependencies": {
+    "ddxq-components/each": "1.0.0",
+    "ddxq-components/extend": "1.0.0"
+  }
+}
